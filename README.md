@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderDoerr
 - 👀 I’m interested in learning more about software development
-- 🌱 I’m currently learning at Neumont College of Computer Science with C++, Java, Javascript, SQL.
+- 🌱 I’m currently learning at Neumont College of Computer Science
 - 📫 How to reach me alexdoerr@live.com
 
 <!---
